@@ -36,10 +36,10 @@ $ git branch -a
   remotes/origin/tags/release-2.0.2rc1
   remotes/origin/trunk
 ```
-You can get to the state described in the book by checking out all branches I
-guess.
+You can get to the state described in the book by checking out all branches
+(perhaps it is better to do this one branch at a time, as it is needed).
 
-# Reference for SVN to GitHub migration
+## Reference for SVN to GitHub migration
 
 Check out [this
 link](https://dominikdorn.com/2016/05/how-to-recover-a-google-code-svn-project-and-migrate-to-github/)
