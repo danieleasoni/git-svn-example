@@ -18,7 +18,7 @@ description):
 $ mkdir /tmp/test-svn
 $ svnadmin create /tmp/test-svn
 $ gunzip repo.svndump.gz
-$ svnadmin load /tmp/testsvn/ < repo.svndump
+$ svnadmin load /tmp/test-svn/ < repo.svndump
 ```
 
 After this we can already clone the svn repo into a git-svn repo:
